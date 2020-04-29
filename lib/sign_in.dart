@@ -21,7 +21,7 @@ class SignIn extends StatelessWidget {
             child: Scaffold(
               body: SingleChildScrollView(
                 child: Container(
-                  margin: EdgeInsets.all(30),
+                  margin: EdgeInsets.all(20),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[

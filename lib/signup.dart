@@ -21,7 +21,7 @@ class SignUp extends StatelessWidget {
           child: Scaffold(
             body: SingleChildScrollView(
               child: Container(
-                margin: EdgeInsets.all(30),
+                margin: EdgeInsets.all(20),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
@@ -100,11 +100,11 @@ class PrivacyPolicyAccept extends State<LoginHelpActionWidget> {
                 ),
                 Text(
                   "By signing up you accept the ",
-                  style: TextStyle(color: Color(0xff656C9D)),
+                  style: TextStyle(color: Color(0xff656C9D), fontSize: 12),
                 ),
                 Text(
                   "Term of service",
-                  style: TextStyle(color: Color(0xff2196f3)),
+                  style: TextStyle(color: Color(0xff2196f3), fontSize: 12),
                 )
               ],
             ),
@@ -115,11 +115,11 @@ class PrivacyPolicyAccept extends State<LoginHelpActionWidget> {
                 children: <Widget>[
                   Text(
                     "and ",
-                    style: TextStyle(color: Color(0xff656C9D)),
+                    style: TextStyle(color: Color(0xff656C9D), fontSize: 12),
                   ),
                   Text(
                     "Privacy Policy",
-                    style: TextStyle(color: Color(0xff2196f3)),
+                    style: TextStyle(color: Color(0xff2196f3), fontSize: 12),
                   )
                 ],
               ),

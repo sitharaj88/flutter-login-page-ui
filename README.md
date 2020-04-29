@@ -1,16 +1,15 @@
-# login
+Flutter Login Page UI
 
-Flutter Login UI
+<h1>Ios Login Page UI</h1>
+<p></p>
+<div style="display:flex;">
+<img alt="App image" src="fastlane/android_sign_in.jpg" width="30%">
+<img alt="App image" src="fastlane/android_sign_up.jpg" width="30%">
+</div>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Ios Login Page UI</h1>
+<p></p>
+<div style="display:flex;">
+<img alt="App image" src="fastlane/ios_sign_in.png" width="30%">
+<img alt="App image" src="fastlane/ios_sign_up.png" width="30%">
+</div>
